@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **AI-Powered Deadlift Form Analysis using Computer Vision**
-
+</div>
 ---
 
 ## 📋 Overview
