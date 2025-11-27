@@ -9,12 +9,6 @@
 
 **AI-Powered Deadlift Form Analysis using Computer Vision**
 
-*Developed by **V NAVNEETH***
-
-[Demo](#-demo) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
-
-</div>
-
 ---
 
 ## 📋 Overview
