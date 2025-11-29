@@ -334,7 +334,4 @@ OpenPose models are used for academic/research purposes. For commercial use, con
 **⭐ If you find this project useful, please consider giving it a star!**
 
 **Made with ❤️ by V NAVNEETH**
-
-© 2024 V NAVNEETH. All Rights Reserved.
-
 </div>
